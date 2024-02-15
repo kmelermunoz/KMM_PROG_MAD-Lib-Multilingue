@@ -1,0 +1,16 @@
+14
+4
+CA Hola, com estàs?
+EU Kaixo, zer moduz?
+GL Ola, que tal?
+OC Adiu, com estàs?
+ES Hola, ¿cómo estás?
+EN Hello, how are you?
+FR Salut, comment ça va?
+DE Hallo, wie geht's?
+IT Ciao, come stai?
+PT Olá, como estás?
+NL Hallo, hoe het?
+SV Hej, hur du?
+PL Cześć, jak masz?
+DA Hej, hvordan det?
