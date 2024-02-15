@@ -27,9 +27,6 @@ TraduccionsMap llegirFitxerTraduccions(const string& Traduccio) {
             string valor = linia.substr(pos + 1);
             traduccions[clau] = valor;
         }
-        else {
-            cerr << "Error: format de linia invalid en el fitxer de traduccions." << endl;
-        }
     }
 
     fitxer.close();
